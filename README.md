@@ -1,16 +1,11 @@
 # Bamazon
 
-Create Database SQL Code
-![Create Database](/images/createdatabase.png)
+![Create Database](https://github.com/BontigaoDavid/Bamazon/blob/master/images/createdatabase.PNG)
 
-Display table, inquire about purchase, update table, display newly updated database entry, display order total
-![Create Database](/images/purchaseitem.png)
+![Create Database](https://github.com/BontigaoDavid/Bamazon/blob/master/images/displayproducts.PNG)
 
-Unsuccessful Order
-![Create Database](/images/unsuccessfulorder.png)
+![Create Database](https://github.com/BontigaoDavid/Bamazon/blob/master/images/purchaseitem.PNG)
 
-Display table and Inquirer function
-![Create Database](/images/displayproducts.png)
+![Create Database](https://github.com/BontigaoDavid/Bamazon/blob/master/images/purchaseitemcode.PNG)
 
-Purchase Item Code
-![Create Database](/images/purchaseitemcode.png)
+![Create Database](https://github.com/BontigaoDavid/Bamazon/blob/master/images/unsuccessfulorder.PNG)
